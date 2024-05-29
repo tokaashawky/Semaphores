@@ -1,4 +1,4 @@
-#Types of locking mechanisms
+# Types of locking mechanisms
 – Test-and-set
 – WAIT and SIGNAL
 – Semaphores
